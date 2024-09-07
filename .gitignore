@@ -37,6 +37,6 @@ testem.log
 /e2e/*.js
 /e2e/*.map
 
-# System File
+# System Filess
 .DS_Store
 Thumbs.db
