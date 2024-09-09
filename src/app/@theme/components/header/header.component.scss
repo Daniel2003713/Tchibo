@@ -68,3 +68,9 @@
     }
   }
 }
+
+@include media-breakpoint-up(md) {
+  nb-select {
+    display: block;
+  }
+}

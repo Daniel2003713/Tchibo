@@ -13,6 +13,9 @@ import { Component } from '@angular/core';
       <a href="#" target="_blank" class="ion ion-social-twitter"></a>
       <a href="#" target="_blank" class="ion ion-social-linkedin"></a>
     </div>
+    <div>
+      <a href="#" target="_blank" clas="ion ion-solial-freelancer"></a>
+    </div>
   `,
 })
 export class FooterComponent {

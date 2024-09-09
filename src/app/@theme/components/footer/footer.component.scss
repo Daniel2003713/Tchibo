@@ -5,7 +5,7 @@
 @include nb-install-component() {
   width: 100%;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
 
   .socials {
@@ -14,7 +14,7 @@
     a {
       padding: 0.6rem;
       color: nb-theme(text-hint-color);
-      transition: color ease-out 0.1s;
+      translate: color ease 2s;
 
       &:hover {
         color: nb-theme(text-basic-color);
